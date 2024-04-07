@@ -1,0 +1,15 @@
+
+-------LINKS A LOS TUTORIALES SUBIDOS A YOUTUBE-------------------------------
+Cargar y Reproducir: https://youtu.be/nDMOPYZHIys
+Expansión y Compresion: https://youtu.be/AeLbXlMcu3I
+Efectos: https://youtu.be/t4mCgjIoWyk
+Filtrado: https://youtu.be/LTLvBnzH6m4
+Generar una onda determinisa: https://youtu.be/vAbnZT_cejA
+Interpolación y Diezmado: https://youtu.be/izfJv4FvCBY
+Modulacion: https://youtu.be/PzvHZNd-ftA
+Ruido: https://youtu.be/OJUQ0KzPZNU
+Suma y Concatenación: https://youtu.be/YsObZI0INYo
+Grabar: https://youtu.be/pfkso9uyC48
+Cambios: https://youtu.be/7uRRQhwW-Us
+------------------------------------------------------------------------------
+
